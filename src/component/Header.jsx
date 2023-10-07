@@ -6,7 +6,7 @@ const Header = () => {
         {name:"HOME",link:"/"},
         
         {name:"ABOUT",link:"#about"},
-        {name:"CONTACT",link:"/"},
+        {name:"CONTACT",link:"#contact"},
       ];
     
 

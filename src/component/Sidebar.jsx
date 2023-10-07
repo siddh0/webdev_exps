@@ -40,7 +40,7 @@ function Sidebar() {
               </a>
             </li>
             <li>
-              <a href="">
+              <a href="#contact">
                 {isSidebarCollapsed ? (
                   <FontAwesomeIcon icon={faEnvelope} />
                 ) : (
@@ -51,9 +51,7 @@ function Sidebar() {
           </ul>
         </div>
       </div>
-     
-    
- 
+
   );
 }
 

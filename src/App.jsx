@@ -6,6 +6,7 @@ import Header from './component/Header'
 import Sidebar from './component/Sidebar'
 import Home from './component/Home'
 import About from './component/About'
+import Form from './component/Contact'
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
       <div className=" ml-40 flex-grow">
         <Home />
         <About />
+        <Form />
       </div>
     </div>
      
